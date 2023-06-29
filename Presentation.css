@@ -1,0 +1,16 @@
+
+div {
+  background-color: blue;
+  text-align: center;
+}
+div p {
+  color: red;
+}
+
+#container {
+  margin: auto;
+}
+
+span {
+  color: blue;
+}
